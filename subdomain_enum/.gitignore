@@ -1,0 +1,4 @@
+.env
+*.txt
+!requirements.txt
+ffuf_tmp.txt
